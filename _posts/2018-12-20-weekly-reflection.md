@@ -10,7 +10,7 @@ date: 2018-12-21
 My program is following the use of put-image allowing me to put images onto other images to make the image look like the pakistan flag.
 
 -   I designed for the Pakistan flag
--   I expect a 1 for my grade
+-   I expect a  for my grade
 
 <!--- Delete this comment and add your writing -->
 
